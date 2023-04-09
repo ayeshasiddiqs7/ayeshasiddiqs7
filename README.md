@@ -24,6 +24,9 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshasiddiqs7&langs_count=5&theme=tokyonight)]()
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=ayeshasiddiqs7&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ayeshasiddiqs7&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br>
+<a href="https://github.com/ayeshasiddiqs7/github-contributor-stats">![Ayesha's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=ayeshasiddiqs7&combine_all_yearly_contributions=true)</a><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayeshasiddiqs7&theme=light&hide_border=false)<br/>
+
+#### Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshasiddiqs7&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
